@@ -4,7 +4,7 @@
 [![Chrome Web Store](https://i.imgur.com/iswHnpJ.png)](https://chromewebstore.google.com/detail/codeforces-lite/hgcgfmgjkfjmhoebifgmbfipinkkjgco)
 [![Firefox Add-ons](https://i.imgur.com/kMH6r1a.png)](https://addons.mozilla.org/en-US/firefox/addon/codeforces-lite/)
 
----
+----
 
 ### Table of Contents
 * [Overview](#overview)
